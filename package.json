@@ -1,0 +1,22 @@
+{
+  "name": "updategitrepos",
+  "version": "0.0.0",
+  "description": "Find all Git repos in a specified folder and update them",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joewillnyc/updategitrepos.git"
+  },
+  "keywords": [
+    "git",
+    "repo"
+  ],
+  "author": "@joewillnyc",
+  "license": "BSD",
+  "dependencies": {
+    "nodemailer": "~0.5.2"
+  }
+}
